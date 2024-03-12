@@ -7,7 +7,7 @@ Play store - https://bit.ly/farytaxi \
 App store - https://apple.co/3WGtAN0 \
 Fary Driver
 Play store - https://bit.ly/farydriver \
-App store - https://apple.co/45thvyC \
+App store - https://apple.co/45thvyC
 
 - **L2E Myanmar**\
 I developed one of the top E-learning platform apps in Myanmar, similar to Udemy. Starting from scratch, I took the responsibility of building this app and handled the entire process of publishing it on both the Play Store and the App Store single- handedly.\
