@@ -29,7 +29,7 @@ Open Your Hert is an offline App for children, parents and caregivers where they
 What are the main features?
 	- Explore the article, comic, podcast and animated video
 	- Play “Treasure Hunts - ရတနာကျွန်းရှာပုံတော်” times.\
-Play store - https://bit.ly/openyourheartandroid
+Play store - https://bit.ly/openyourheartandroid \
 App store - https://apple.co/3PjqzQ2
 
 - **Book It**\
@@ -38,7 +38,7 @@ What are the main features?
 	- Explore your desired hotel with the detail information of hotels, rooms and 		facilities available 
 	- Make booking instantly and easily using variety of payment methods
 	- Search for variety of promotions and packages\
-Play store - https://bit.ly/bookitmyanmar
+Play store - https://bit.ly/bookitmyanmar \
 App Store - https://apple.co/3wRacUR
 
 - **JOY Express**\
