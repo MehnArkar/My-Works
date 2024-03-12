@@ -5,7 +5,7 @@ The Fary application is similar to the Grab Taxi application. This project has b
 Fary\
 Play store - https://bit.ly/farytaxi \
 App store - https://apple.co/3WGtAN0 
-Fary Driver \
+Fary Driver
 Play store - https://bit.ly/farydriver \
 App store - https://apple.co/45thvyC
 
