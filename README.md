@@ -11,5 +11,5 @@ App store - https://apple.co/45thvyC \
 
 - **L2E Myanmar**\
 I developed one of the top E-learning platform apps in Myanmar, similar to Udemy. Starting from scratch, I took the responsibility of building this app and handled the entire process of publishing it on both the Play Store and the App Store single- handedly.\
-Play store - https://bit.ly/elearningmyanmar \
-App store - https://apple.co/3TbNDBD \
+Play store - https://bit.ly/elearningmyanmar
+\App store - https://apple.co/3TbNDBD
