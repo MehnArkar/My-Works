@@ -21,7 +21,7 @@ App store - https://apple.co/45thvyC
 
 I developed one of the top E-learning platform apps in Myanmar, similar to Udemy. Starting from scratch, I took the responsibility of building this app and handled the entire process of publishing it on both the Play Store and the App Store single- handedly.
 
-Play store - https://bit.ly/elearningmyanmar
+Play store - https://bit.ly/elearningmyanmar \
 App store - https://apple.co/3TbNDBD
 
 ##
@@ -32,7 +32,7 @@ App store - https://apple.co/3TbNDBD
   
 Getbak, Myanmar's inaugural redemption software aimed at addressing challenges faced by Lucky Draw programs. My responsibilities included developing the UI based on the UI/UX designer's specifications, integrating web socket live-chat, resolving bugs identified by QA, and managing app releases on the store and internally. I actively collaborated with team members to brainstorm and implement new features and functionalities.
 
-Play store - https://bit.ly/getbakenduser 
+Play store - https://bit.ly/getbakenduser \
 App store - https://apps.apple.com/us/app/getbak/id1626010492
 
 ##
