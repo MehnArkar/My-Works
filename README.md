@@ -1,6 +1,6 @@
-**My Works**
+# My Works
 
-- **Fary Taxi**
+## Fary Taxi
   
 <img src="https://i.postimg.cc/cHcSKj5L/unnamed.png" alt="Fary" width="150" height="auto"> <img src="https://i.postimg.cc/rsLDTvRy/unnamed-2.png" alt="Fary" width="150" height="auto"> <img src="https://i.postimg.cc/9Qxw98K1/unnamed-2.jpg" alt="Fary" width="150" height="auto"> <img src="https://i.postimg.cc/sxV3wyZW/unnamed.jpg" alt="Fary" width="150" height="auto">\
 
@@ -13,7 +13,7 @@ Fary Driver\
 Play store - https://bit.ly/farydriver \
 App store - https://apple.co/45thvyC
 
-- **L2E Myanmar**\
+##L2E Myanmar
 
 <img src="https://i.postimg.cc/kXq2pPdf/unnamed-4.png" alt="L2E Myanmar" width="150" height="auto"> <img src="https://i.postimg.cc/1RpgB5b8/unnamed-5.png" alt="L2E Myanmar" width="150" height="auto"> <img src="https://i.postimg.cc/vBZhZhHR/unnamed.png" alt="L2E Myanmar" width="150" height="auto"> <img src="https://i.postimg.cc/kXq2pPdf/unnamed-4.png" alt="L2E Myanmar" width="150" height="auto">
 
@@ -21,7 +21,7 @@ I developed one of the top E-learning platform apps in Myanmar, similar to Udemy
 Play store - https://bit.ly/elearningmyanmar \
 App store - https://apple.co/3TbNDBD
 
-- **Getback**\
+## Getback
 
 <img src="https://i.postimg.cc/s2vQ4PRz/unnamed-3.jpg" alt="Getbak" width="150" height="auto"> <img src="https://i.postimg.cc/R0y3s3MH/unnamed-4.jpg" alt="Getbak" width="150" height="auto"> <img src="https://i.postimg.cc/J7qyq8qQ/unnamed.jpg" alt="Getbak" width="150" height="auto"> <img src="https://i.postimg.cc/4yBmNvd0/unnamed-2.jpg" alt="Getbak" width="150" height="auto">
   
@@ -29,12 +29,12 @@ Getbak, Myanmar's inaugural redemption software aimed at addressing challenges f
 Play store - https://bit.ly/getbakenduser \
 App store - https://apps.apple.com/us/app/getbak/id1626010492
 
-- **Getbak Merchant**\
+## Getbak Merchant
 I developed the Getbak Merchant app, which is specifically designed for merchants to use. In this app, users can withdraw coupons by scanning QR codes. I built this application from the ground up and successfully published it on both the Google Play Store and the Apple App Store.\
 Play store - https://bit.ly/getbakmerchant \
 App store - https://bit.ly/getbakmerchantios
 
-- **Open Your Heart**\
+## Open Your Heart
    
 <img src="https://i.postimg.cc/Jhfn39q3/unnamed-9.png" alt="Open Your Heart" width="150" height="auto"> <img src="https://i.postimg.cc/gksx9tzd/unnamed-7.png" alt="Open Your Heart" width="150" height="auto"> <img src="https://i.postimg.cc/BnvXJ5bF/unnamed-8.png" alt="Open Your Heart" width="150" height="auto"> <img src="https://i.postimg.cc/gksx9tzd/unnamed-7.png" alt="Open Your Heart" width="150" height="auto"> <img src="https://i.postimg.cc/BnvXJ5bF/unnamed-8.png" alt="Open Your Heart" width="150" height="auto">
 
@@ -45,7 +45,7 @@ What are the main features?
 Play store - https://bit.ly/openyourheartandroid \
 App store - https://apple.co/3PjqzQ2
 
-- **Book It**\
+## Book It
 
 <img src="https://i.postimg.cc/RFw0gXsk/unnamed-10.png" alt="Book It" width="150" height="auto"> <img src="https://i.postimg.cc/j2XSbCrv/unnamed-11.png" alt="Book It" width="150" height="auto"> <img src="https://i.postimg.cc/gjd2Q81n/unnamed-12.png" alt="Book It" width="150" height="auto"> <img src="https://i.postimg.cc/02VyX6ny/unnamed-13.png" alt="Book It" width="150" height="auto">
 
@@ -57,11 +57,11 @@ What are the main features?
 Play store - https://bit.ly/bookitmyanmar \
 App Store - https://apple.co/3wRacUR
 
-- **JOY Express**\
+## JOY Express
 JOY Express" is a Custom Delivery Management System that will be used within the organization for better performance and communication between stakeholders. By using the system, we believe it will definitely speed up the delivery process, reduce workload of the employees, and human errors caused by manual processes.\
  Play store, App Store - Internal use only
  
-- **Ngwe Zay**\
+## Ngwe Zay
   
 <img src="https://i.postimg.cc/rFVp9GSH/unnamed-14.png" alt="Ngwe Zay" width="150" height="auto"> <img src="https://i.postimg.cc/xCVfNLft/unnamed-15.png" alt="Fary" width="150" height="auto"> <img src="https://i.postimg.cc/LXkHthhR/unnamed-16.png" alt="Ngwe Zay" width="150" height="auto"> <img src="https://i.postimg.cc/QC0hzPpy/unnamed-17.png" alt="Ngwe Zay" width="150" height="auto">
   
@@ -73,8 +73,8 @@ What are the main features?
 Play store - https://bit.ly/3P9LxRE \
 App store - https://apple.co/3T6pzQD
 
-- **GBI Gem Lab**\
-- 
+## GBI Gem Lab
+ 
 <img src="https://i.postimg.cc/8kHpsFqm/unnamed-18.png" alt="GBI" width="150" height="auto"> <img src="https://i.postimg.cc/52HbPsjs/unnamed-21.png" alt="GBI" width="150" height="auto"> <img src="https://i.postimg.cc/DwtFR1Xn/unnamed-20.png" alt="GBI" width="150" height="auto"> <img src="https://i.postimg.cc/8PXTB2kF/unnamed-19.png" alt="GBI" width="150" height="auto">
 
 GBI Gem Lab is a comprehensive mobile app that provides convenient access to gem reports, keeps you updated on the lab's services and certifications, and offers a wealth of educational content about gemstones.\
