@@ -1,6 +1,8 @@
 **My Works**
 
 - **Fary Taxi**\
+| [![Fary](https://i.ibb.co/VTTv8vN/unnamed.png "Fary")](https://i.ibb.co/VTTv8vN/unnamed.png "Fary") | [![Fary](https://i.ibb.co/VTTv8vN/unnamed.png "Fary")](https://i.ibb.co/VTTv8vN/unnamed.png "Fary") | [![Fary](https://i.ibb.co/VTTv8vN/unnamed.png "Fary")](https://i.ibb.co/VTTv8vN/unnamed.png "Fary") |
+
 The Fary application is similar to the Grab Taxi application. This project has been quite challenging for me as I had to utilize technologies that I hadn't previously worked with. For instance, I integrated web sockets to display real-time driver and user locations on a map. Additionally, I incorporated Google ML Kit for Face ID user login and implemented robust error handling for various application states. It has been an exciting and learning experience to work on this project.\
 Fary\
 Play store - https://bit.ly/farytaxi \
@@ -58,4 +60,5 @@ App store - https://apple.co/3T6pzQD
 GBI Gem Lab is a comprehensive mobile app that provides convenient access to gem reports, keeps you updated on the lab's services and certifications, and offers a wealth of educational content about gemstones.\
 Play store - https://bit.ly/gbigemlab \
 App Store - https://apple.co/4abRxBc
+
 
