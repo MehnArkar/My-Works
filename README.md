@@ -25,7 +25,7 @@ Play store - https://bit.ly/getbakmerchant \
 App store - https://bit.ly/getbakmerchantios
 
 - **Open Your Heart**\
-Open Your Hert is an offline App for children, parents and caregivers where they can learn about the mental health and psychosocial support messages through an app and play the edutainment game related to the topic as well.  \
+Open Your Heart is an offline App for children, parents and caregivers where they can learn about the mental health and psychosocial support messages through an app and play the edutainment game related to the topic as well.  \
 What are the main features?
 	- Explore the article, comic, podcast and animated video
 	- Play “Treasure Hunts - ရတနာကျွန်းရှာပုံတော်” times.\
