@@ -1,6 +1,6 @@
 **My Works**
 
-- **Fary Taxi**\
+- **Fary Taxi**
   
 [![Fary](https://i.postimg.cc/cHcSKj5L/unnamed.png "Fary")](https://i.postimg.cc/cHcSKj5L/unnamed.png "Fary") [![Fary](https://i.postimg.cc/rsLDTvRy/unnamed-2.png "Fary")](https://i.postimg.cc/rsLDTvRy/unnamed-2.png "Fary") [![Fary Driver](https://i.postimg.cc/9Qxw98K1/unnamed-2.jpg "Fary")](hhttps://i.postimg.cc/9Qxw98K1/unnamed-2.jpgttp:// "Fary")\
 The Fary application is similar to the Grab Taxi application. This project has been quite challenging for me as I had to utilize technologies that I hadn't previously worked with. For instance, I integrated web sockets to display real-time driver and user locations on a map. Additionally, I incorporated Google ML Kit for Face ID user login and implemented robust error handling for various application states. It has been an exciting and learning experience to work on this project.\
